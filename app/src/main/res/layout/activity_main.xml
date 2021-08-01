@@ -10,6 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Git gub"
+        android:textColor="#000777"
         android:textStyle="bold"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
